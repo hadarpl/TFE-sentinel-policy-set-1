@@ -16,7 +16,7 @@ body = {
         "id": tfrun.id,
         "created_at": tfrun.created_at,
         "message": tfrun.message,
-        "commit_sha": tfrun.commit_sha
+        "commit_sha": tfrun.commit_sha,
     },
 }
 
